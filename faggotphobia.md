@@ -7,23 +7,24 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The Software has been created in the hopes that Sean John Combs ("DIDDY") will face the death penalty for the killing of Tupac Amaru Shakur ("TUPAC") and Christopher George Latore Wallace ("THE NOTORIOUS BIG"). The author of the Software lives the Thug Life.
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 Restrictions:
 1. The following entities or individuals are explicitly denied permission to use, modify, distribute, or sublicense the Software:
-   - Users that support DIDDY and his acts
-   - Users who do not believe that DIDDY fatally murdered TUPAC and THE NOTORIOUS BIG
-   - Users who do not support the song She Knows by Jermaine Lamarr Cole ("J. COLE")
-   - Users who do not believe that DIDDY had "Freak Offs"
-   - Users who do not have "the N-Word Pass"
-   - Users who consider themselves White Supremacists
-   - Users who do not promise to ensure that they "thug" at least once every twenty-four hours.
-   - Users who are oppositions of the West (Westside)
+   - Users who are, do support being, or have been lesbian
+   - Users who are, do support being, or have been gay
+   - Users who are, do support being, or have been bisexual
+   - Users who are, do support being, or have been transgender
+   - Users who are, do support being, or have been queer
+   - Users who are, do support entities who are, or have questioned their sexuality.
+   - Users who are, do support being, or have been intersex
+   - Users who are, do support being, or have been pansexual
+   - Users who are, do support being, or have been two-spirited
+   - Users who are, do support being, or have been asexual
+   - Users who identify with any pronouns other than "he/him" or "she/her"
+   - Users who support the existance and creation of the BLÅHAJ by Inter IKEA Systems B.V.
 
-   
 2. Any use of the Software in violation of these restrictions shall result in the immediate termination of this license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR

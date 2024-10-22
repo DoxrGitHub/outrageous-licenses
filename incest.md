@@ -7,22 +7,13 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The Software has been created in the hopes that Sean John Combs ("DIDDY") will face the death penalty for the killing of Tupac Amaru Shakur ("TUPAC") and Christopher George Latore Wallace ("THE NOTORIOUS BIG"). The author of the Software lives the Thug Life.
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 Restrictions:
 1. The following entities or individuals are explicitly denied permission to use, modify, distribute, or sublicense the Software:
-   - Users that support DIDDY and his acts
-   - Users who do not believe that DIDDY fatally murdered TUPAC and THE NOTORIOUS BIG
-   - Users who do not support the song She Knows by Jermaine Lamarr Cole ("J. COLE")
-   - Users who do not believe that DIDDY had "Freak Offs"
-   - Users who do not have "the N-Word Pass"
-   - Users who consider themselves White Supremacists
-   - Users who do not promise to ensure that they "thug" at least once every twenty-four hours.
-   - Users who are oppositions of the West (Westside)
-
+   - Users who have not had sexual intercourse with a blood related cousin.
+   - Users who do not support incest.
    
 2. Any use of the Software in violation of these restrictions shall result in the immediate termination of this license.
 
