@@ -10,7 +10,6 @@ furnished to do so, subject to the following conditions:
 
 The Software has been created in the hopes of restoring White America, where the pure white men, women, and children are kept away from the blacks and non-aryans.
 
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
