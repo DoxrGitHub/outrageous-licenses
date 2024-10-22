@@ -2,4 +2,4 @@
 Open Source Licenses derived from the MIT, but offensive
 
 - [Racist License](racistLicense.md)
-- [Thug Life](thug.md)
+- [Thug Life](thug.md) (to finish)
